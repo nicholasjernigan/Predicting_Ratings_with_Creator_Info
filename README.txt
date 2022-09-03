@@ -17,5 +17,7 @@ seen in the write-up.
 
 Oscars-demographics-DFE.csv is the input data used for this experiment.
 
+results_21.csv is the output of MOVIE_PROJECT.py. It is the Oscars-demographics-DFE.csv with the added information from Metacritic. 
+
 Results Writeup.docx is the writeup I made for the client. The client preferred speed over quality, 
 consequently, the write-up was made in less than an hour.
